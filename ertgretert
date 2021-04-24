@@ -617,3 +617,13 @@ http://186.33.168.30:8000/play/a01q/index.m3u8
 http://185.234.111.37:8880/play/a043
 #EXTINF:-1,Eurosport 2 HD
 http://185.234.111.37:8880/play/a05i
+#EXTINF:-1,Sky Sport 1 HD
+http://185.234.111.37:8880/play/a04w
+#EXTINF:-1,Sky Sport 2
+http://185.234.111.37:8880/play/a04p
+#EXTINF:-1,Sky Sport 2 HD
+http://185.234.111.37:8880/play/a056
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://185.234.111.37:8880/play/a05f
+#EXTINF:-1,Sky Sport F1 HD
+http://185.234.111.37:8880/play/a04e
