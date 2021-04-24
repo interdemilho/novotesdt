@@ -433,6 +433,8 @@ http://186.101.226.70:8000/play/a00j/index.m3u8
 http://186.101.226.70:8000/play/a00y/index.m3u8
 #EXTINF:-1,Playboy
 http://186.101.226.70:8000/play/a012/index.m3u8
+#EXTINF:-1,Playboy HD
+http://201.182.242.196:8000/play/a09g/index.m3u8
 #EXTINF:-1,RCN - GUA
 http://186.101.226.70:8000/play/a00a/index.m3u8
 #EXTINF:-1,RHEMA TV
